@@ -36,7 +36,7 @@ THEN the password is either displayed in an alert or written to the page
 ## Installation
 
 ![passwordgen img](./mockup.PNG)
-Live Link: 
+Live Link: https://harryward-15.github.io/Password-Generator/
 
 ## Usage
 
